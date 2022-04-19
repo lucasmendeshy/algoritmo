@@ -1,0 +1,11 @@
+Exercício Loop Média
+
+-Desenvolva um algoritmo que permita (usando um loop) ler 4 notas de um aluno e somar estas notas.
+
+-Após o loop, calcule a média destas notas e a mostre na tela.
+
+-Em seguida, verifique se a média é maior/igual a 7.
+
+-Se for, informe que o aluno está aprovado.
+
+-Senão, informe que o aluno está reprovado.

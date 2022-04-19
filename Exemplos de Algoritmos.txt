@@ -1,0 +1,15 @@
+Fazer um algoritmo em fluxograma e pseudocódigo que permita dar um determinado valor de desconto sobre o preço de um produto.
+
+ALT 27
+
+
+
+
+caractere
+numerico ou real
+
+
+CONCATENAÇÃO
+
+
+

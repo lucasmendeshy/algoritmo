@@ -1,0 +1,9 @@
+Algoritmo
+
+-Ler 3 números diferentes
+
+-Multiplicar cada um deles po 5 e guardar o resultado de cada multiplicação
+
+-Somar os resultados de cada multiplicação
+
+-Exibir a soma dos resultados
